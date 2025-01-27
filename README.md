@@ -3,7 +3,7 @@
 
 A Python-based tool that generates engaging podcast conversations using Google's Gemini 2.0 Flash Experimental model for script generation and text-to-speech conversion. Now with multi-language support for generating podcasts in various languages.
 
-[![Gemini 2 Podcast Setup Guide: Transform Content into Pro-Level Podcasts](about.mp4)
+<video src='about.mp4' width=380/>
 
 ## Features
 - Converts content from multiple source formats (PDF, URL, TXT, Markdown) into natural conversational scripts.
